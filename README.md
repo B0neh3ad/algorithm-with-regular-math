@@ -9,5 +9,3 @@ Introduce algorithms and mathmatical theorems for students who have learned math
 ||정수와 유리수|
 
 ## 고등학교 수학 교육과정
-
-|
